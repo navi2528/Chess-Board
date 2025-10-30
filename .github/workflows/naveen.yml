@@ -1,5 +1,4 @@
 name: java CI with Maven
-
 on:
   push:
     branches: [ "main" ]
