@@ -1,4 +1,4 @@
-name: CI CD Pipeline
+name: java CI with Maven
 
 on:
   push:
@@ -6,7 +6,6 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
